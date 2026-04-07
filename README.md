@@ -1,6 +1,6 @@
 # Interactive Calendar Component 📅
 
-A polished, interactive wall-calendar-inspired React component built for the **Redynox Frontend Engineering Challenge**.
+A polished, interactive wall-calendar-inspired React component built for the ** SWE Summer Intern Challenge**.
 
 ## ✨ Features
 
@@ -27,7 +27,7 @@ A polished, interactive wall-calendar-inspired React component built for the **R
 ### Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/interactive-calendar.git
+git clone https://github.com/yaahrit/interactive-calendar.git
 cd interactive-calendar
 npm install
 npm start
@@ -65,4 +65,4 @@ src/
 
 ## 👤 Author
 
-Yash Raj — GNIOT, Department of Computer Applications
+Yash Raj 
