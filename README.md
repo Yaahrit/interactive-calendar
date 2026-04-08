@@ -4,19 +4,7 @@
 
 ---
 
-## 🌐 Live Demo
 
-> **[View Live →](https://your-deployment-url.vercel.app)**  
-> *(Deploy to Vercel or Netlify and replace this link)*
-
----
-
-## 🎥 Demo Video
-
-> **[Watch Demo →](https://your-video-link.com)**  
-> *(Screen recording showing range selection, notes, responsiveness)*
-
----
 
 ## ✨ Features
 
